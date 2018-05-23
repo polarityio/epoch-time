@@ -1,0 +1,98 @@
+{"name":"Generic REST","hostname":"example2.com","pid":9278,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-24T05:20:19.996Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":9278,"level":30,"msg":"Integration started.","time":"2018-02-24T05:20:19.998Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":10146,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-24T05:35:18.451Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":10146,"level":30,"msg":"Integration started.","time":"2018-02-24T05:35:18.452Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":10255,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-24T05:52:24.046Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":10255,"level":30,"msg":"Integration started.","time":"2018-02-24T05:52:24.047Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":10314,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-24T05:59:08.268Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":10314,"level":30,"msg":"Integration started.","time":"2018-02-24T05:59:08.269Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":10332,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-24T06:00:22.608Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":10332,"level":30,"msg":"Integration started.","time":"2018-02-24T06:00:22.609Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":10344,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-24T06:00:42.812Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":10344,"level":30,"msg":"Integration started.","time":"2018-02-24T06:00:42.813Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":10432,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-24T06:04:59.596Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":10432,"level":30,"msg":"Integration started.","time":"2018-02-24T06:04:59.597Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11345,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T04:43:40.391Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11345,"level":30,"msg":"Integration started.","time":"2018-02-25T04:43:40.392Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11358,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T04:44:05.777Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11358,"level":30,"msg":"Integration started.","time":"2018-02-25T04:44:05.778Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11512,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:02:28.779Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11512,"level":30,"msg":"Integration started.","time":"2018-02-25T05:02:28.780Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11522,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:02:38.180Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11522,"level":30,"msg":"Integration started.","time":"2018-02-25T05:02:38.181Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11557,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:06:39.143Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11557,"level":30,"msg":"Integration started.","time":"2018-02-25T05:06:39.144Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11605,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:10:10.815Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11605,"level":30,"msg":"Integration started.","time":"2018-02-25T05:10:10.816Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11629,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:13:09.841Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11629,"level":30,"msg":"Integration started.","time":"2018-02-25T05:13:09.842Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11639,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:13:19.851Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11639,"level":30,"msg":"Integration started.","time":"2018-02-25T05:13:19.852Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11655,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:14:27.496Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11655,"level":30,"msg":"Integration started.","time":"2018-02-25T05:14:27.497Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11688,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:21:32.926Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11688,"level":30,"msg":"Integration started.","time":"2018-02-25T05:21:32.927Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11698,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:21:35.142Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11698,"level":30,"msg":"Integration started.","time":"2018-02-25T05:21:35.143Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11716,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:23:07.191Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11716,"level":30,"msg":"Integration started.","time":"2018-02-25T05:23:07.192Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11730,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:23:30.443Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11730,"level":30,"msg":"Integration started.","time":"2018-02-25T05:23:30.444Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11764,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:24:16.648Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11764,"level":30,"msg":"Integration started.","time":"2018-02-25T05:24:16.649Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11985,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:43:18.986Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":11985,"level":30,"msg":"Integration started.","time":"2018-02-25T05:43:18.987Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":12010,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:45:01.848Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":12010,"level":30,"msg":"Integration started.","time":"2018-02-25T05:45:01.850Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":12062,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:46:55.990Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":12062,"level":30,"msg":"Integration started.","time":"2018-02-25T05:46:55.991Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":12098,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:54:27.180Z","v":0}
+{"name":"Generic REST","hostname":"example2.com","pid":12098,"level":30,"msg":"Integration started.","time":"2018-02-25T05:54:27.181Z","v":0}
+{"name":"TimeConversionS","hostname":"example2.com","pid":12114,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T05:55:01.337Z","v":0}
+{"name":"TimeConversionS","hostname":"example2.com","pid":12114,"level":30,"msg":"Integration started.","time":"2018-02-25T05:55:01.339Z","v":0}
+{"name":"TimeConversionS","hostname":"example2.com","pid":12258,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T06:06:35.697Z","v":0}
+{"name":"TimeConversionS","hostname":"example2.com","pid":12258,"level":30,"msg":"Integration started.","time":"2018-02-25T06:06:35.698Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12291,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T06:09:10.199Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12291,"level":30,"msg":"Integration started.","time":"2018-02-25T06:09:10.200Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12322,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T06:10:28.633Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12322,"level":30,"msg":"Integration started.","time":"2018-02-25T06:10:28.634Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12423,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T06:19:08.316Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12423,"level":30,"msg":"Integration started.","time":"2018-02-25T06:19:08.318Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12437,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T06:19:34.677Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12437,"level":30,"msg":"Integration started.","time":"2018-02-25T06:19:34.678Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12452,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T06:20:06.717Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12452,"level":30,"msg":"Integration started.","time":"2018-02-25T06:20:06.718Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12540,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T06:30:01.046Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12540,"level":30,"msg":"Integration started.","time":"2018-02-25T06:30:01.046Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12558,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-25T06:31:12.896Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":12558,"level":30,"msg":"Integration started.","time":"2018-02-25T06:31:12.897Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":18624,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-26T16:30:03.913Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":18624,"level":30,"msg":"Integration started.","time":"2018-02-26T16:30:03.914Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":19636,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-02-26T16:33:33.042Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":19636,"level":30,"msg":"Integration started.","time":"2018-02-26T16:33:33.043Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":2179,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-03-14T17:45:17.324Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":2179,"level":30,"msg":"Integration started.","time":"2018-03-14T17:45:17.325Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":2486,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-03-14T17:49:04.152Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":2486,"level":30,"msg":"Integration started.","time":"2018-03-14T17:49:04.153Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":2240,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-03-15T13:49:14.542Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":2240,"level":30,"msg":"Integration started.","time":"2018-03-15T13:49:14.543Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":2246,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-03-16T17:07:03.318Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":2246,"level":30,"msg":"Integration started.","time":"2018-03-16T17:07:03.319Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":26839,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-03-28T21:32:05.375Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":26839,"level":30,"msg":"Integration started.","time":"2018-03-28T21:32:05.376Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":26859,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-03-28T21:34:01.730Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":26859,"level":30,"msg":"Integration started.","time":"2018-03-28T21:34:01.731Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":26902,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-03-28T21:43:35.347Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":26902,"level":30,"msg":"Integration started.","time":"2018-03-28T21:43:35.347Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":27000,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-03-28T21:54:32.528Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":27000,"level":30,"msg":"Integration started.","time":"2018-03-28T21:54:32.529Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":798,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-03-30T17:08:31.470Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":798,"level":30,"msg":"Integration started.","time":"2018-03-30T17:08:31.471Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":1053,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-03-30T17:13:33.481Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":1053,"level":30,"msg":"Integration started.","time":"2018-03-30T17:13:33.481Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":1289,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-03-30T17:18:36.973Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":1289,"level":30,"msg":"Integration started.","time":"2018-03-30T17:18:36.973Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":2239,"level":30,"msg":"Logger created for /app/polarity-server/integrations/generic-rest","time":"2018-04-04T14:43:57.900Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"example2.com","pid":2239,"level":30,"msg":"Integration started.","time":"2018-04-04T14:43:57.901Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"Josephs-MBP.fios-router.home","pid":56986,"level":30,"msg":"Logger created for /Users/josephmiller/Projects/Polarity/polarity-server/integrations/epoch-converter","time":"2018-05-23T19:44:27.654Z","v":0}
+{"name":"EPOCHTimeConverter","hostname":"Josephs-MBP.fios-router.home","pid":56986,"level":30,"msg":"Integration started.","time":"2018-05-23T19:44:27.656Z","v":0}
