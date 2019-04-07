@@ -1,36 +1,28 @@
-//let request = require('request');
-let async = require('async');
+'use strict';
 
-function doLookup(entities, options, cb){
-    // store results in this array
-    let lookupResults = [];
-    async.each(entities, function(entity, next){
-          var date = _getFormattedTime(entity.value);
+function doLookup(entities, options, cb) {
+  let lookupResults = [];
+  entities.forEach((entityObj) => {
+    var date = _getFormattedTime(entityObj.value);
 
-          lookupResults.push({
-
-                    entity: entity,
-
-                    data: {
-                       summary: [date],
-                       details: [date]
-                    }
-
-                });
-                next();
-    }, function(err){
-        cb(err, lookupResults);
+    lookupResults.push({
+      entity: entityObj,
+      data: {
+        summary: [date],
+        details: [date]
+      }
     });
- }
+  });
 
- function _getFormattedTime(unixtimestamp)
- {
-      // Create a new JavaScript Date object based on the timestamp
-      // multiplied by 1000 so that the argument is in milliseconds, not seconds.
-      var date = new Date(unixtimestamp*1000);
-      return date;
- }
+  cb(null, lookupResults);
+}
+
+function _getFormattedTime(unixTimeStamp) {
+  // Create a new JavaScript Date object based on the timestamp
+  // multiplied by 1000 so that the argument is in milliseconds, not seconds.
+  return new Date(unixTimeStamp * 1000);
+}
 
 module.exports = {
-    doLookup: doLookup
- };
+  doLookup: doLookup
+};
