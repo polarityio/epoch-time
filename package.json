@@ -1,10 +1,6 @@
 {
-	"name": "Epoch-TimeConverter",
-  	"version": "3.0.0",
-  	"main": "./integration.js",
-  	"private": true,
-  	"dependencies": {
-		"request": "^2.88",
-		"async": "^2.6"
-	}
+  "name": "Epoch-TimeConverter",
+  "version": "3.0.1",
+  "main": "./integration.js",
+  "private": true
 }
