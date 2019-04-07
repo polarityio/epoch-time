@@ -1,0 +1,11 @@
+<span class="integration-summary-tag integration-background-color integration-border-color">
+    <span class="acronym integration-text-bold-color">{{block.acronym}}</span>
+    <span class="integration-text-color">
+        {{#if block.userOptions.showSummaryInLocalTimezone}}
+            {{moment-format (unix details.unixTime) "YYYY-MM-DD HH:mm:ss z" timeZone=timezone}}
+        {{else}}
+            {{moment-format (unix details.unixTime) "YYYY-MM-DD HH:mm:ss z ZZ" timeZone="GMT"}}
+        {{/if}}
+    </span>
+</span>
+
