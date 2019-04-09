@@ -5,7 +5,7 @@ module.exports = {
   customTypes: [
     {
       key: 'unixtime',
-      regex: /\s\d{10}(?!\w)/
+      regex: /\b\d{10}(?!\w)/
     }
   ],
   block: {
