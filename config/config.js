@@ -24,6 +24,18 @@ module.exports = {
       file: './templates/epoch-summary.hbs'
     }
   },
+  request: {
+    cert: '',
+    key: '',
+    passphrase: '',
+    ca: '',
+    proxy: '',
+
+    rejectUnauthorized: true
+  },
+  logging: {
+    level: 'info' //trace, debug, info, warn, error, fatal
+  },
   options: [
     {
       key: 'showSummaryInLocalTimezone',
