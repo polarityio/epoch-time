@@ -1,7 +1,7 @@
 module.exports = {
   name: 'EPOCH Time Converter',
   acronym: 'TIME',
-  defaultColor: 'light-grey',
+  defaultColor: 'light-gray',
   description: 'Converts EPOCH Time to Human Readable Date',
   customTypes: [
     {
